@@ -1,4 +1,4 @@
-<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/136a179d-913f-4418-98a4-a84998c22065" /># KiCad Project 1: LED Indicator Board
+
 
 ## Overview
 This repository contains my **very first Printed Circuit Board (PCB) design project**, built completely from scratch using **KiCad EDA**. 
