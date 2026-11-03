@@ -22,6 +22,8 @@ This project serves as a hands-on milestone to transition into professional hard
 <img width="959" height="347" alt="image" src="https://github.com/user-attachments/assets/fc5b2776-32b4-425f-bbc2-cc4f9b11edc9" />
 <img width="959" height="498" alt="image" src="https://github.com/user-attachments/assets/a4a4c0ee-e9a5-44ba-9a31-c6488b46148c" />
 <img width="959" height="534" alt="image" src="https://github.com/user-attachments/assets/333a2702-e244-4c06-94cd-5d951a517a16" />
+<img width="959" height="302" alt="image" src="https://github.com/user-attachments/assets/67b62a8e-9094-4816-8947-d00d1be7dfbf" />
+
 
 
 
