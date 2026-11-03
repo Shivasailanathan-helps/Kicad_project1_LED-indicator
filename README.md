@@ -26,12 +26,3 @@ This project serves as a hands-on milestone to transition into professional hard
 
 
 
-## Project Structure
-```text
-├── Project 1.kicad_pro    # KiCad project file
-├── Project 1.kicad_sch    # Schematic diagram
-├── Project 1.kicad_pcb    # PCB board layout
-├── KiCAD_Project1.png     # Rendered layout preview
-└── Netlist files_project1.net
-
-
