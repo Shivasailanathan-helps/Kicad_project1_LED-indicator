@@ -11,7 +11,7 @@ This project serves as a hands-on milestone to transition into professional hard
 * **Schematic Design:** Created clean circuit schematics with proper power/ground routing, component value selection, and netlist generation.
 * **Component Footprint Assignment:** Mapped symbols to standard surface-mount (SMD) / through-hole (TTH) component footprints.
 * **PCB Layout & Routing:**
-  * Designed a compact 2-layer PCB layout.
+  * Designed a compact 1-layer PCB layout.
   * Optimized component placement for minimal trace lengths and noise.
   * Added pour areas / ground planes and clear silkscreen text for assembly clarity.
 * **Design Rule Check (DRC):** Fully verified layout constraints; passed with **0 DRC errors and 0 warnings**.
